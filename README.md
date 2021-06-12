@@ -1,3 +1,12 @@
+# Color shade Generator
+  This application is created using, ReactJS and a values.js Library
+
+# How to use
+
+Input a color, in #Hex format or a plain text format -> hit submit and view the generated shades of the inputed colors.
+click on the color frame of your choice and it be copied to your clipboard to use.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
